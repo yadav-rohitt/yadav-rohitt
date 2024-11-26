@@ -19,7 +19,7 @@ Quality Analyst passionate about delivering smooth and efficient software experi
 - 💬 Ask me about ** Java, Javascript, Manual Testing, Selenium, Cypress, Potman **
 
 - 📄 Know about my experiences [Resume]()
-- 
+ 
 - 📫 Feel free to reach me at **rohyadav18@gmail.com**
 
 
