@@ -1,14 +1,27 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">Software Development Engineer in Test (SDET)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-rohitt&label=Profile%20views&color=0e75b6&style=flat" alt="yadavrohit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-rohitt1&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-rohitt" /> </p>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
  <p align="left" style="width: 50%;">
 Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.
 
  </p>
+ <img  align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+</div>
+
+
+
+
+- 🌱 I’m currently learning **Selenium, Automation Testing**
+
+
+- 💬 Ask me about ** Java, Javascript, Manual Testing, Selenium, Cypress, Potman **
+
 - 📄 Know about my experiences [Resume]()
-- 📧 Reach me at: rohyadav18@gmail.com
+- 
+- 📫 Feel free to reach me at **rohyadav18@gmail.com**
+
 
   
 <h3 align="left">Connect with me: </h3>
