@@ -1,12 +1,23 @@
-# 👋 Hi, I'm Rohit Ashok Yadav | SDET Enthusiast 🚀
+<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
+<h3 align="center">Software Development Engineer in Test (SDET)</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-rohitt&label=Profile%20views&color=0e75b6&style=flat" alt="yadavrohit" /> </p>
+<h3 align="left">About Me</h3>
+<div style="display: flex; justify-content: space-around;" >
+ <p align="left" style="width: 50%;">
+Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.
 
-### 🌟 About Me
-- 🔧 Passionate about building reliable and scalable test automation frameworks.
-- 🛠 Skilled in **Java**, **JavaScript**, and tools like **Cypress**, **Postman**, and **GitHub**.
-- 🌱 Currently exploring advanced API automation and performance testing tools.
-- 📧 Reach me at: rohyadav18@gmail.com  
-<h3 align="left">Connect with me:</h3>
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-yadav-908b62281/))
+ </p>
+- 📄 Know about my experiences [Resume]()
+- 📧 Reach me at: rohyadav18@gmail.com
+
+  
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rohit-yadav-908b62281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadav rohitt" height="30" width="40" /></a>
+ 
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
