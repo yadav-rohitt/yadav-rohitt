@@ -4,9 +4,9 @@
 - 🔧 Passionate about building reliable and scalable test automation frameworks.
 - 🛠 Skilled in **Java**, **JavaScript**, and tools like **Cypress**, **Postman**, and **GitHub**.
 - 🌱 Currently exploring advanced API automation and performance testing tools.
-- 📧 Reach me at: rohyadav18@gmail.com || Linkedln:https://www.linkedin.com/in/rohit-yadav-908b62281/ 
-
-
+- 📧 Reach me at: rohyadav18@gmail.com  
+<h3 align="left">Connect with me:</h3>
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-yadav-908b62281/))
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
