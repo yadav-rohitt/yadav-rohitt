@@ -20,7 +20,7 @@ Quality Analyst passionate about delivering smooth and efficient software experi
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SFZ7TUxdVIkmVc2HlRp4wzYsrCl5-jEr/view?usp=sharing)
  
-- 📫 Feel free to reach me at **rohyadav18@gmail.com**
+- 📫 Feel free to reach me at **rohityaadav1805@gmail.com**
 
 
   
